@@ -1,0 +1,22 @@
+{
+  "name": "HModuleB",
+  "version": "0.1.0",
+  "summary": "A short description of HModuleB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/heliosneverend/HModuleB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "heliosneverend": "zhaoyuanfu@we.com"
+  },
+  "source": {
+    "git": "https://github.com/heliosneverend/HModuleB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HModuleB/Classes/**/*"
+}
